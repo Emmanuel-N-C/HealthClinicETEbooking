@@ -1,0 +1,7 @@
+<suite name="Suite1">
+    <test name="MultiTest">
+        <classes>
+            <class name="Navigation"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
